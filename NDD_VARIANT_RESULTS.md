@@ -8,7 +8,7 @@
 
 ## Results (MMAP=ON, GMP=OFF)
 
-| N | Solutions | NDD Nodes | Time Sylvan 1.4.1 (s) | Time Sylvan 1.8.1 (s) | Time Sylvan 1.9.1 + Lace 1.5.0 (s) | Time Sylvan 1.9.1 + Lace 1.5.1 (s) | Time Sylvan 1.9.1 + bundled Lace 1.4.1 (s) |
+| N | Solutions | NDD Nodes | Time Sylvan 1.4.1 + bundled Lace (s) | Time Sylvan 1.8.1 + Lace 1.4.2 (s) | Time Sylvan 1.9.1 + Lace 1.5.0 (s) | Time Sylvan 1.9.1 + Lace 1.5.1 (s) | Time Sylvan 1.9.1 + bundled Lace (s) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 | 92.0 | 10325 | 0.213 | 0.559 | 0.470 | 0.434 | 0.221 |
 | 9 | 352.0 | 28537 | 0.645 | 1.629 | 1.355 | 1.212 | 0.483 |
@@ -18,7 +18,7 @@
 
 ## Results (MMAP=ON, GMP=ON)
 
-| N | Solutions | NDD Nodes | Time Sylvan 1.4.1 (s) | Time Sylvan 1.8.1 (s) | Time Sylvan 1.9.1 + Lace 1.5.0 (s) | Time Sylvan 1.9.1 + Lace 1.5.1 (s) | Time Sylvan 1.9.1 + bundled Lace 1.4.1 (s) |
+| N | Solutions | NDD Nodes | Time Sylvan 1.4.1 + bundled Lace (s) | Time Sylvan 1.8.1 + Lace 1.4.2 (s) | Time Sylvan 1.9.1 + Lace 1.5.0 (s) | Time Sylvan 1.9.1 + Lace 1.5.1 (s) | Time Sylvan 1.9.1 + bundled Lace (s) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 | 92.0 | 10325 | 0.221 | 0.514 | 0.456 | 0.450 | 0.305 |
 | 9 | 352.0 | 28537 | 0.316 | 1.648 | 1.300 | 1.238 | 0.583 |
